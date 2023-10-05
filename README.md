@@ -70,7 +70,6 @@ $ npm start (to start the backend)
 - CRUD operations (Story create, read, update and delete)
 - Upload user ımages and story ımages  to the server
 - Liking  stories and adding stories  to the Reading list
-- Commenting  on the story
 - Skeleton loading effect
 - Responsive Design
 
