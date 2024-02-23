@@ -58,7 +58,7 @@ EMAIL_PASS = your_password
 # --- Terminal ---
 
 $ npm install (to install backend-side dependencies)
-$ npm start (to start the backend)
+$ node server.js (to start the backend)
 ```
 
 
